@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebsiteVigilant.Ws", "WebsiteVigilant.Ws\WebsiteVigilant.Ws.csproj", "{043C9223-0F2D-48FE-8F29-77EB1F1D0A3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043C9223-0F2D-48FE-8F29-77EB1F1D0A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043C9223-0F2D-48FE-8F29-77EB1F1D0A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043C9223-0F2D-48FE-8F29-77EB1F1D0A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043C9223-0F2D-48FE-8F29-77EB1F1D0A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28EC167F-3516-4BE7-8853-F1D25CC51C41}
+	EndGlobalSection
+EndGlobal
