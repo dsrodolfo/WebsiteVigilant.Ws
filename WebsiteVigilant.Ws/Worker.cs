@@ -4,7 +4,7 @@ namespace WebsiteVigilant.Ws
     {
         private readonly ILogger<Worker> _logger;
         private readonly IHttpClientFactory _httpClientFactory;
-        private readonly List<string> _urls = new();  
+        private readonly IEnumerable<string> _urls = new List<string>();  
 
         public Worker(ILogger<Worker> logger, 
                       IHttpClientFactory httpClientFactory,
