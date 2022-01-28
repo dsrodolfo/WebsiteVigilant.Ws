@@ -18,3 +18,11 @@ Website Vigilant is a worker service to monitor URLs.
 		<td>4.1.0</td>
 	</tr>
 </table>
+
+## SOLID Principles
+
+<table>
+	<tr>
+	  <td>Dependency Inversion</td>
+	</tr>
+</table>
